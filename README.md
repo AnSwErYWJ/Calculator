@@ -1,8 +1,8 @@
 #Name:
-    Calculator
+Calculator
 
 #Description:
-    My calculator by C
+My calculator by C
 
 #Compile and Run:
     gcc -o calculator calculator.c
