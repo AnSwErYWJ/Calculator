@@ -1,9 +1,9 @@
-#Name:
+# Name:
 Calculator
 
-#Description:
+# Description:
 My calculator by C.
 
-#Compile and Run:
+# Compile and Run:
     make
     ./calculator
